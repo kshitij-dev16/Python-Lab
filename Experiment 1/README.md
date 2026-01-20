@@ -56,32 +56,17 @@ Steps
 Conclusion  
 The program effectively calculates statistical data from multiple integer inputs.
 
-Theory
+###   Theory  
 The area of a circle is calculated using the mathematical formula: 
-A
-r
-e
-a
-=
-π
-r
-2
- In this program, we use 3.14 as the constant for 
-π
- and 
-r
- as the radius provided by the user.
+Area=πr2
+In this program, we use 3.14 as the constant for 
+π and r as the radius provided by the user.
 
 Steps
-1.⁠ ⁠Accept the radius (
-r
-) as input. 2.⁠ ⁠Convert the input to an integer. 3.⁠ ⁠Calculate the area using the formula 
-3.14
-∗
-r
-∗
-r
-. 4.⁠ ⁠Print the final area.
+1.⁠ ⁠Accept the radius (r) as input. 
+2.⁠ ⁠Convert the input to an integer.
+3.⁠ ⁠Calculate the area using the formula 3.14∗r∗r
+4.⁠ ⁠Print the final area.
 
 Conclusion
 The program demonstrates the implementation of geometric formulas using Python variables.
@@ -90,68 +75,17 @@ The program demonstrates the implementation of geometric formulas using Python v
 Conclusion
 The program demonstrates the implementation of geometric formulas using Python variables.
 
-#Program-4: Area and Perimeter of a Rectangle
+### Program-4: Area and Perimeter of a Rectangle  
 Aim
 To compute the area and the perimeter of a rectangle using its length and breadth.
 
 Theory
 •⁠ ⁠Area is the total space inside the rectangle: 
-A
-r
-e
-a
-=
-L
-e
-n
-g
-t
-h
-×
-B
-r
-e
-a
-d
-t
-h
- •⁠ ⁠Perimeter is the total distance around the rectangle: 
-P
-e
-r
-i
-m
-e
-t
-e
-r
-=
-2
-×
-(
-L
-e
-n
-g
-t
-h
-+
-B
-r
-e
-a
-d
-t
-h
-)
+Area=Length×Breadth
+•⁠ ⁠Perimeter is the total distance around the rectangle: 
+Perimeter=2×(Length+Breadth)
 
 Steps
-1.⁠ ⁠Input the length (
-l
-) and breadth (
-b
-). 2.⁠ ⁠Convert both values to integers. 3.⁠ ⁠Calculate Area (
-l
-∗
-b
-).
+1.⁠ ⁠Input the length (l) and breadth (b).
+2.⁠ ⁠Convert both values to integers. 
+3.⁠ ⁠Calculate Area (l∗b).
