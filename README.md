@@ -287,13 +287,13 @@ print("Bitwise OR:", a | b)
 
 
 
-4.	Input and display formatted output using input() and print()
+#### Input and display formatted output using input() and print()
 
-# Input from user
+###  Input from user
 name = input("Enter your name: ")
 marks = int(input("Enter your marks: "))
 
-# Output using formatted print
+###  Output using formatted print
 print("Student Name:", name)
 print("Marks Obtained:", marks)
 
