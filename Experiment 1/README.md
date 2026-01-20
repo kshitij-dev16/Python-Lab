@@ -56,10 +56,6 @@ Steps
 Conclusion  
 The program effectively calculates statistical data from multiple integer inputs.
 
-#Program-3: Area of a Circle  
-Aim
-To find the area of a circle based on a user-defined radius.
-
 Theory
 The area of a circle is calculated using the mathematical formula: 
 A
@@ -85,6 +81,10 @@ r
 r
 ∗
 r
+. 4.⁠ ⁠Print the final area.
+
+Conclusion
+The program demonstrates the implementation of geometric formulas using Python variables.
 . 4.⁠ ⁠Print the final area.
 
 Conclusion
