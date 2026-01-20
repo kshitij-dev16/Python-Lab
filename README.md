@@ -155,7 +155,7 @@ Objectives
 •	To understand basic input and output mechanisms
 ________________________________________
 Theory
-1. Python Environment and Interface
+1. Python Environment and Interface  
 The Python environment provides tools and interfaces to write, execute, and debug Python programs. Python programs can be executed using different interfaces such as:
 •	Python Shell
 •	Jupyter Notebook
@@ -163,7 +163,7 @@ The Python environment provides tools and interfaces to write, execute, and debu
 •	Cloud-based platforms like Google Colab
 The interface allows users to write code, execute instructions, and view results interactively.
 ________________________________________
-2. Python Execution Modes
+2. Python Execution Modes  
 Python supports two main execution modes:
 a) Interactive Mode
 •	Commands are executed one line at a time
@@ -175,13 +175,13 @@ b) Script Mode
 •	Suitable for developing complete applications
 •	Files usually have .py extension
 ________________________________________
-3. Comments in Python
+3. Comments in Python  
 Comments are non-executable statements used to explain code and improve readability.
 •	Single-line comments: Begin with #
 •	Multi-line comments: Written using triple quotes (""" """)
 Comments help in documentation and understanding program logic.
 ________________________________________
-4. Variables and Identifiers
+4. Variables and Identifiers  
 A variable is a named memory location used to store data values.
 Rules for Identifiers:
 •	Must start with a letter (A–Z, a–z) or underscore _
@@ -190,7 +190,7 @@ Rules for Identifiers:
 •	Should not use Python keywords
 Python uses dynamic typing, meaning variables do not require explicit data type declaration.
 ________________________________________
-5. Data Types in Python
+5. Data Types in Python  
 Python provides several built-in data types to store different kinds of data.
 Basic Data Types
 •	Integer (int): Whole numbers
@@ -199,7 +199,7 @@ Basic Data Types
 •	Boolean (bool): True or False
 The data type of a variable can be identified using the type() function.
 ________________________________________
-6. Operators and Expressions
+6. Operators and Expressions  
 Operators are symbols used to perform operations on variables and values.
 Types of Operators
 •	Arithmetic Operators: Used for mathematical calculations
@@ -214,7 +214,7 @@ Types of Operators
 (&, |, ^, <<, >>)
 An expression is a combination of operators and operands that produces a result.
 ________________________________________
-7. Basic Input and Output Operations
+7. Basic Input and Output Operations  
 Input and output operations allow interaction between the user and the program.
 •	Input:
 input() function is used to accept input from the user.
@@ -223,7 +223,7 @@ Input is treated as a string by default and may require type conversion.
 print() function is used to display output.
 Formatted output can be achieved using commas or formatted strings.
 ________________________________________
-##  Conclusion
+##  Conclusion  
 Thus, the Python programming environment, execution modes, variables, data types, operators, and basic input/output operations were studied and understood.
 
 
