@@ -1,4 +1,4 @@
-# Experiment 5: Sets and Dictionaries in Python  
+# Experiment : Sets and Dictionaries in Python  
 ## Name: Kshitij
 ## PRN: 25070123066
 ## Batch: A-3
@@ -85,7 +85,9 @@ Boolean Handling: In Python sets, True and 1 are treated as the same value, as a
 • Configuration files
 
 
-Conclusion
+### Conclusion
+
 Sets efficiently handle unique data and support mathematical operations, making them useful for data processing tasks.
+
 
 Dictionaries provide efficient storage and retrieval of data using keys, making them essential for real-world applications.
