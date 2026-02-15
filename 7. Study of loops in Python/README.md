@@ -38,7 +38,7 @@ Practice pattern printing and number problems
 
 
 
-Key Concepts Covered
+### Key Concepts Covered
 
 while loop
 
@@ -66,11 +66,6 @@ number-based algorithms
 A while loop executes as long as a condition remains true.
 Used when the number of iterations is unknown.
 
-Syntax
-
-while condition:
-    statements
-
 
 Programs Implemented
 
@@ -93,7 +88,7 @@ Searching elements
 A for loop iterates over sequences such as ranges, lists, or strings.
 
 Syntax
-
+ 
 for variable in range():
     statements
 
@@ -116,27 +111,27 @@ Pattern printing
 
 Stops loop execution immediately.
 
-Example Use
+Example 
 
-Exit loop when value becomes 3
+Exit loop when value becomes 3.
 
-Stop searching when element is found
+Stop searching when element is found.
 
 4️⃣ Continue Statement
 
 Skips current iteration and moves to the next.
 
-Example Use
+Example 
 
-Skip number 5
+Skip number 5.
 
-Print only odd numbers
+Print only odd numbers.
 
 5️⃣ Nested Loops
 
 A loop inside another loop.
 
-Applications in Project
+#### Applications in Project
 
 Matrix display
 
@@ -147,6 +142,8 @@ Digit combinations
 Pattern printing
 
 🧠 Algorithms (Examples)
+
+
 ✅ Algorithm: Factorial Using While Loop
 
 Start
