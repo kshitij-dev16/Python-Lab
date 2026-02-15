@@ -1,4 +1,9 @@
-# Introduction
+# Experiment 7
+
+## Title : Study of loops in python
+
+## Introduction
+
 
 Loops are an essential concept in Python programming used to execute a block of code repeatedly. Instead of writing the same instructions multiple times, loops automate repetition and make programs efficient and readable.
 
