@@ -76,32 +76,59 @@ Example columns:
 ## 🔁 Flowchart
 
 START
+
 ↓
+
 Import Libraries
+
 ↓
+
 Load Dataset
+
 ↓
+
 Convert to DataFrame
+
 ↓
+
 Check Missing Values
+
 ↓
+
 Handle Missing Data
+
 ↓
+
 Remove Duplicates
+
 ↓
+
 Fix Data Types
+
 ↓
+
 Clean Text Data
+
 ↓
+
 Rename / Replace Values
+
 ↓
+
 Sort Data
+
 ↓
+
 Analyze (info, describe)
+
 ↓
+
 Display Clean Data
+
 ↓
+
 END
+
 
 
 
