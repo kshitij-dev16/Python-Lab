@@ -184,3 +184,90 @@ Display Result
 ↓
 
 Stop
+
+
+
+
+---
+
+## 🔹 Part 4: Customizing Charts
+
+### 🧠 Algorithm
+1. Start  
+2. Add chart title and axis labels  
+3. Add legends  
+4. Adjust colors and styles  
+5. Improve readability  
+6. Display updated chart  
+7. Stop  
+
+### 🔁 Flowchart
+
+Start
+
+↓
+
+Add Titles & Labels
+
+↓
+
+Add Legends
+
+↓
+
+Adjust Styles
+
+↓
+
+Improve Readability
+
+↓
+
+Display Chart
+
+↓
+
+Stop
+
+
+
+---
+
+## 🔹 Part 5: Data Interpretation
+
+### 🧠 Algorithm
+1. Start  
+2. Observe chart patterns  
+3. Identify trends and relationships  
+4. Draw conclusions  
+5. Display insights  
+6. Stop  
+
+### 🔁 Flowchart
+
+
+Start
+
+↓
+
+Observe Chart
+
+↓
+
+Identify Patterns
+
+↓
+
+Draw Conclusions
+
+↓
+
+Display Insights
+
+↓
+
+Stop
+
+## 🎯 Conclusion
+Basic charts and visual encoding techniques are essential tools in data visualization. They help transform raw data into meaningful visual insights, making it easier to understand trends and patterns. Proper use of visualization techniques enhances communication and supports effective decision-making.
+
