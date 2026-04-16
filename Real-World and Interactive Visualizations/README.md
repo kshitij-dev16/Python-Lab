@@ -3,9 +3,9 @@
 
 
 ## 👨‍🎓 Student Details
-- **Name:** Krishiv Sharma  
+- **Name:** Kshitij Dalvi
 - **Branch:** EnTC A3  
-- **PRN:** 25070123065  
+- **PRN:** 25070123066
 
 ---
 
