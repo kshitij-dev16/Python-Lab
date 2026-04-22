@@ -176,3 +176,15 @@ This project demonstrates how data analysis techniques can be applied to real-wo
 
 ## 📁 Project Structure
 
+
+COVID-19-Analysis/
+│
+├── Covid_Data_Analysis.ipynb
+├── README.md
+├── dataset/
+│ └── covid_19_data.csv
+├── screenshots/
+│ ├── world_map.png
+│ ├── heatmap.png
+│ └── charts.png
+
